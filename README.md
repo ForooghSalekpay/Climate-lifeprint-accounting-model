@@ -8,9 +8,9 @@ model for ultra-rich social influencers"
 
 ## Files
 
-- Climate lifeprint model.ipynb`: complete Jupyter notebook containing
+- Climate lifeprint model.ipynb: complete Jupyter notebook containing
   scenario calculations and sensitivity analyses.
--  Climate lifeprint model - 2.py`: Python script version of the model.
+-  Climate lifeprint model - 2.py: Python script version of the model.
 
 ## Model structure
 
